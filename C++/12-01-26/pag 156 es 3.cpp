@@ -6,7 +6,7 @@ int main()
     int ni=0;
     int o;
     cin>>o;
-    for (int i=0;i<o;i++)
+C
     {
         int n;
         cin>>n;
