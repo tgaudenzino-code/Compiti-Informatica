@@ -3,5 +3,6 @@
 int main() {
     // std::cout invia il testo allo schermo
     std::cout << "Hello, World!" << std::endl;
+    // commento inseito pe test
     return 0; // Indica che il programma è terminato con successo
 }
